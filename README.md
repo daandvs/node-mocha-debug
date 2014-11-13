@@ -1,4 +1,4 @@
 node-mocha-debug
 ================
 
-Code for blog post 'Debug your server side unit tests' - blog.daandvs.com
+Code for blog post <a href="http://blog.daandvs.com/debug-mocha-unit-tests-in-node/">setup and debug your nodejs unit tests</a>.
