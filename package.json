@@ -1,0 +1,19 @@
+{
+  "name": "node-mocha-debug",
+  "version": "1.0.0",
+  "description": "node-mocha-debug ================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daandvs/node-mocha-debug"
+  },
+  "author": "Daan Devos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daandvs/node-mocha-debug/issues"
+  },
+  "homepage": "https://github.com/daandvs/node-mocha-debug"
+}
